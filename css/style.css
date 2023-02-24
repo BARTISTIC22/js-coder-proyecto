@@ -1,0 +1,21 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+
+.container{
+height: 100px;
+background-color: blue;
+text-align: center;
+border: solid 15px indianred;
+}
+
+
+
+h1{
+color: chartreuse;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 2rem;
+font-weight: 800;
+}
